@@ -25,6 +25,6 @@ export const MESSAGES = [
     'KATE IS A',
     'STINKY PINKIE .',
     '- SCRUMPYCAT',
-    ''
+    '']
 
 ];
